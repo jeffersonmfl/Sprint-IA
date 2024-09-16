@@ -27,3 +27,8 @@ Os resultados são avaliados com base no Erro Quadrático Médio (MSE) e no Coef
    ```bash
    git clone https://github.com/seu-usuario/hospital-wait-times.git
    cd hospital-wait-times
+   
+2.Crie um ambiente virtual (opcional, mas recomendado):
+   ```bash
+
+3.Instale as dependências:
