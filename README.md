@@ -40,6 +40,3 @@ Este projeto realiza a análise e modelagem preditiva do tempo de espera de paci
 2. O script irá automaticamente carregar o dataset, realizar a análise exploratória, e treinar os modelos preditivos.
 3. Gráficos e métricas de avaliação serão exibidos ao final da execução.
 
-## Contato
-
-Para dúvidas ou sugestões, entre em contato com [Seu Nome] em [Seu E-mail].
